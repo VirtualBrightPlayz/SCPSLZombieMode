@@ -17,4 +17,6 @@ scp939_53_hp: 200
 scp939_89_hp: 200
 ```
 
+## Know that SCP-079 can get buggy if multiple people are on the same camera
+
 ## Know that SCP-096 gets *very* buggy when there is multiple.
